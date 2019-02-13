@@ -96,3 +96,8 @@ html {
   section.testimonials .button {
     margin-bottom: 10px;
   }
+
+  .game-screen {
+    width: 100%;
+    height: 100vh;
+  }
